@@ -1,1 +1,1 @@
-# python-strongly-opinionated-array
+# soapy - Strongly Opinionated Array in Python
