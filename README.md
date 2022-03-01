@@ -1,0 +1,1 @@
+# python-strongly-opinionated-array
